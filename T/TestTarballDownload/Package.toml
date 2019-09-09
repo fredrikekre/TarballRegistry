@@ -1,0 +1,4 @@
+name = "TestTarballDownload"
+uuid = "19d1f5b7-b1ff-446b-ac17-ba0051fb903c"
+repo = "https://github.com/fredrikekre/TestTarballDownload.jl.git"
+archive = "https://github.com/fredrikekre/TestTarballDownload.jl/archive/v{version}.tar.gz"

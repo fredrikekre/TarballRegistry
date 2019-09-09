@@ -1,0 +1,18 @@
+["1.0.0"]
+git-tree-sha1 = "442219c676016779c6d673a935c5add138569567"
+sha256 = "3fe342ba22ffb98d9e6ae604e963820e7609cd7c99549e1d4c4e081e52189939"
+
+["1.1.0"]
+git-tree-sha1 = "c7fa7d285ab2aa4b9a0fb59969745a03cf2c94ff"
+
+["1.2.0"]
+git-tree-sha1 = "e4752880ff7dae931b71d35bed7086b214209d8e"
+archive = "https://github.com/fredrikekre/TestTarballDownload.jl/archive/v1.2.0.tar.gz"
+
+["1.3.0"]
+git-tree-sha1 = "13e4d4cb2f8a69f4b22678fd71dddd545bc6a8d7"
+archive = "https://github.com/fredrikekre/TestTarballDownload.jl/archive/v1.3.0.tar.gz"
+sha256 = "9db243076b0b2bbee33ca08869b9c4641c45d5a9dfd90e95e23e3d38834dd15a"
+
+["1.4.0"]
+git-tree-sha1 = "e42dc5de8f0a01006c0411888ffc5a1d55c1a031"

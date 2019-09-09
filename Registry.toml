@@ -1,0 +1,9 @@
+name = "TarballRegistry"
+uuid = "5188f40d-f4c4-411a-a5f8-38fa27ee9bd9"
+repo = "https://github.com/fredrikekre/TarballRegistry.git"
+
+[packages]
+19d1f5b7-b1ff-446b-ac17-ba0051fb903c = { name = "TestTarballDownload", path = "T/TestTarballDownload" }
+
+
+
